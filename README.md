@@ -61,10 +61,6 @@ I’m **Vrunda Patel**, a motivated and detail-oriented **fresher Data Analyst**
 ![](https://nirzak-streak-stats.vercel.app/?user=vrundap7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrundap7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vrundap7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
