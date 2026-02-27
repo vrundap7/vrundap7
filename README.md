@@ -17,14 +17,13 @@
 ---
 
 ## 🙋‍♀️ About Me
-I’m **Vrunda Patel**, a motivated and detail-oriented **fresher Data Analyst** with strong knowledge of:
+I’m **Vrunda Patel**, a motivated and detail-oriented **Data Analyst** with strong knowledge of:
 - 📊 **Advanced Excel** for data manipulation and automation  
 - 🗃️ **MySQL** for database querying and reporting  
 - 🐍 **Python** (Pandas, NumPy, Matplotlib) for analysis & visualization  
-- 📈 Now learning **Power BI** to build powerful dashboards
+- 📈 **Power BI** For Data Modeling, DAX, Power Query & Interactive Dashboard Development
 
 💡 I enjoy solving real-world problems with data and love continuously learning new tools and techniques.  
-💼 I’m actively looking for **internships** or **entry-level job opportunities** in the data analytics field.  
 ✨ I believe in “learning by doing” — and my GitHub is filled with beginner-friendly projects!
 
 ---
