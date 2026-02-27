@@ -3,7 +3,6 @@
 
 <p align="center">
 🔍 I specialize in transforming data into meaningful insights using Excel, MySQL, Python & Power BI.<br/>
-🚀 I’m currently looking for my **first professional opportunity** as a Data Analyst.
 </p>
 
 ---
